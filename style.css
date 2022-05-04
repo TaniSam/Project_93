@@ -1,0 +1,21 @@
+img{
+    height: 150;
+    width: 120;
+}
+
+#logo{
+  border-radius: 70%;
+}
+
+#logo_name{
+    color:rgb(73, 7, 135);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Quote{
+    font-size: large;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: purple;
+    margin-top: 20%;
+}
